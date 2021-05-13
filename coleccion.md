@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Colección
-permalink: coleccion
+title: Collection
+permalink: collection
 show_title: false
 banner:
   collection: paisajes

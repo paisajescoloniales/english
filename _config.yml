@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Paisajes Coloniales
+title: Colonial Landscapes
 email: paisajescoloniales@gmail.com
-description: Redibujando los territorios andinos en el siglo XVII
+description: Redrawing Andean Territories in the Seventeenth Century
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.paisajescoloniales.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://colonial-landscapes.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:
-tagline: Redibujando los territorios andinos en el siglo XVII
+tagline: Redrawing Andean Territories in the Seventeenth Century
 twitter:
   username: Paisajescoloni1
   card: summary
