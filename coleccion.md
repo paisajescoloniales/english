@@ -10,7 +10,7 @@ banner:
   height: '500px'
 ---
 # Colección
-Acá puedes navegar las fuentes que están disponibles en Paisajes coloniales. Esta curaduría recoje voces y visiones distintas de los cambios que generó la conquista española sobre las sociedades indígenas y los paisajes de los Andes. Podrás acercarte a la orfebrería y la cerámica Muisca, explorar diferentes formas de representar el mundo en mapas, leer las quejas de los indígenas sobre los daños que hacía el ganado en sus cultivos, comparar las representaciones que hicieron los europeos de los indígenas con las representaciones que los Muiscas hicieron de sí mismos o leer sobre la creación de las instituciones coloniales a través de sus documentos adminsitrativos y legales.  
+This curatorship of sources gathers different voices and visions of the changes that the Spanish conquest generated on indigenous societies and the landscapes of the Andes. You will be able to get closer to the Muisca goldsmithing and ceramics, explore different ways of representing the world on maps, read the complaints of the indigenous people about the damage that livestock did to their crops, compare the representations that the Europeans made of the indigenous people with the representations that the Muiscas made of themselves or read about the creation of colonial institutions through their administrative and legal documents.  
 
 
 
