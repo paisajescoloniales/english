@@ -28,7 +28,7 @@
   margin: auto;
   display: block;
   vertical-align: middle;
-  max-width: 80%;
+  max-width: 88%;
 }
 .bg-img h3{
   text-align: center;
@@ -112,7 +112,7 @@ a.link-adicional:hover{
   color: #F4EFEF;
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1348.9px) {
    .bg-img h1{
      font-size: 5em;
    }
@@ -131,7 +131,7 @@ a.link-adicional:hover{
   }
 
 
-  @media screen and (max-width: 885px) {
+  @media screen and (max-width: 961.9px) {
      .bg-img h1{
        font-size: 3.2em;
      }
@@ -142,7 +142,7 @@ a.link-adicional:hover{
        font-size: .9em;
      }
    }
-  @media screen and (max-width: 767.9px){
+  @media screen and (max-width: 789.9px){
 
     .bg-img h4{
       font-size: 1em;
@@ -181,7 +181,7 @@ a.link-adicional:hover{
 
  @media screen and (max-width: 575.9px) {
     .bg-img h1{
-      font-size: 3em;
+      font-size: 2.8em;
       letter-spacing: .1rem;
     }
 
@@ -207,6 +207,6 @@ a.link-adicional:hover{
 
   @media screen and (max-width: 325px) {
      .bg-img h1{
-       font-size: 2.7em;
+       font-size: 2.5em;
      }
    }

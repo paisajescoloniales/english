@@ -11,6 +11,18 @@
     border-bottom: 2px solid rgba(255,255,255,0.2);
 }
 
+span.idioma{
+    font-size: 10px;
+}
+a.active-idioma{
+  color: #F4EFEF;
+  font-weight: 500
+}
+
+a.otro-idioma{
+  color: #F4EFEF;
+  font-weight: 300
+}
 .navbar-light .navbar-toggler{
   color: transparent;
   border-color: transparent;
