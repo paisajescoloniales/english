@@ -12,17 +12,26 @@
 }
 
 span.idioma{
-    font-size: 10px;
+    font-size: 11px;
+    padding-left: 4px;
 }
 a.active-idioma{
   color: #F4EFEF;
-  font-weight: 500
+  font-weight: 700
 }
 
 a.otro-idioma{
   color: #F4EFEF;
   font-weight: 300
 }
+a.active-idioma:hover{
+  color: #99C8F2;
+}
+
+a.otro-idioma:hover{
+  color: #99C8F2;
+}
+
 .navbar-light .navbar-toggler{
   color: transparent;
   border-color: transparent;

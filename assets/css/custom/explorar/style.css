@@ -80,6 +80,9 @@
   padding-top: 1%;
   padding-right: 5%;
   padding-bottom: 2%;
+  justify-content: space-evenly;
+    align-items: center;
+    width: fit-content;
 }
 
 
@@ -109,9 +112,7 @@
 }
 
 h6.descubrir-leyenda{
-padding-left: 1%
-      vertical-align: middle;
-      display: contents;
+padding-left: 1%;
 }
 /* Tooltip container */
 .tooltip {
