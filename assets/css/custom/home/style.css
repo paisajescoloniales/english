@@ -112,7 +112,7 @@ a.link-adicional:hover{
   color: #F4EFEF;
 }
 
-@media screen and (max-width: 1348.9px) {
+@media screen and (max-width: 1348.99px) {
    .bg-img h1{
      font-size: 5em;
    }
@@ -121,7 +121,7 @@ a.link-adicional:hover{
    }
  }
 
- @media screen and (max-width: 1176.9px) {
+ @media screen and (max-width: 1176.99px) {
     .bg-img h1{
       font-size: 4em;
     }
@@ -134,7 +134,7 @@ a.link-adicional:hover{
   }
 
 
-  @media screen and (max-width: 961.9px) {
+  @media screen and (max-width: 961.99px) {
      .bg-img h1{
        font-size: 3.2em;
      }
