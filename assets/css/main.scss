@@ -121,6 +121,12 @@ img{
   justify-content: space-around;
 }
 
+
+.carousel-indicators li {
+    height: .25px!important;
+    border-bottom: 0 solid transparent!important;
+}
+
  @media screen and (max-width: 767.9px){
    h2{
      padding-top: 6%;
