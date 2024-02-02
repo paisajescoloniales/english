@@ -1,0 +1,3 @@
+[submodule "english"]
+	path = english
+	url = https://github.com/paisajescoloniales/english
